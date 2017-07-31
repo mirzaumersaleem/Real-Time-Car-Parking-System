@@ -1,0 +1,21 @@
+
+#SignIn{
+    margin-left: 1100px;
+    
+}
+#title{
+    
+    background-color: dodgerblue;
+    color: white;
+    height: 100px;
+    width: 1350px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+#name{
+    margin-right: 900px
+}
+#headerImage{
+   margin-right: 950px;
+   margin-top: 10px
+}

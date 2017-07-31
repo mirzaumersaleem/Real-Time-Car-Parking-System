@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+ background-color: dodgerblue;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+.App-intro {
+  font-size: large;
+}
+#title{
+  margin-right: 1000px;
+
+}
+footer{
+  margin-top: 600px;
+  background-color: dodgerblue;
+  color: white;
+
+}
